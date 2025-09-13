@@ -1,6 +1,8 @@
 AI-POWERED REAL-TIME EMERGENCY DETECTION AND RESPONSE SYSTEM
 =============================================================
 Use Video data for trainings
+
+
 EXECUTION MANUAL
 
 Prepared By:
